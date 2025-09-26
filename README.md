@@ -18,7 +18,7 @@ Antes de iniciar a atividade, certifique-se de ter:
 - [X] **npm** ou **yarn** como gerenciador de pacotes
 - [X] **Git** instalado e configurado
 - [X] **Editor de código** (VS Code recomendado)
-- [ ] **Cliente REST** para testes (Postman, Insomnia, ou Thunder Client)
+- [X] **Cliente REST** para testes (Postman, Insomnia, ou Thunder Client)
 
 ### Verificação dos Pré-requisitos
 Execute os comandos abaixo para verificar se os pré-requisitos estão instalados:

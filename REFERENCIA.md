@@ -1,5 +1,5 @@
 # Guia de Referência Rápida
-
+curl http://localhost:3000/tasks
 ## 🚀 Comandos Essenciais
 
 ### Configuração Inicial
