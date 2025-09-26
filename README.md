@@ -14,10 +14,10 @@ Ao final desta atividade, o aluno será capaz de:
 
 ## Pré-requisitos
 Antes de iniciar a atividade, certifique-se de ter:
-- [ ] **Node.js** (versão 18.x ou superior) instalado
-- [ ] **npm** ou **yarn** como gerenciador de pacotes
-- [ ] **Git** instalado e configurado
-- [ ] **Editor de código** (VS Code recomendado)
+- [X] **Node.js** (versão 18.x ou superior) instalado
+- [X] **npm** ou **yarn** como gerenciador de pacotes
+- [X] **Git** instalado e configurado
+- [X] **Editor de código** (VS Code recomendado)
 - [ ] **Cliente REST** para testes (Postman, Insomnia, ou Thunder Client)
 
 ### Verificação dos Pré-requisitos
