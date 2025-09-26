@@ -5,17 +5,17 @@ Use este checklist para acompanhar seu progresso durante a implementação da AP
 ## ✅ Pré-requisitos e Configuração
 
 ### Verificação do Ambiente
-- [ ] Node.js (v18+) instalado e funcionando
-- [ ] npm instalado e funcionando
-- [ ] Git instalado e configurado
-- [ ] Editor de código (VS Code recomendado) configurado
+- [X] Node.js (v18+) instalado e funcionando
+- [X] npm instalado e funcionando
+- [X] Git instalado e configurado
+- [X] Editor de código (VS Code recomendado) configurado
 - [ ] Cliente REST (Postman/Insomnia/Thunder Client) instalado
 
 ### Configuração Inicial
-- [ ] Fork do repositório tutorial realizado
-- [ ] Repositório clonado localmente
-- [ ] NestJS CLI instalado globalmente (`npm install -g @nestjs/cli`)
-- [ ] Projeto NestJS criado (`nest new tasks-api`)
+- [X] Fork do repositório tutorial realizado
+- [X] Repositório clonado localmente
+- [X] NestJS CLI instalado globalmente (instalei localmente => `npm install -D @nestjs/cli`)
+- [ ] Projeto NestJS criado (instalei na raiz =: `npx nest new . --skip-git`)
 - [ ] Dependências instaladas (TypeORM, SQLite, class-validator, etc.)
 
 ## 🗂️ Estrutura do Projeto
